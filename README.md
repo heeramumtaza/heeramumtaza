@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm hira</h1>
+<h1 align="center">Hi 👋, I'm Mahira Ghina Mumtaza</h1>
 - 📫 How to reach me **mahiraghinamumtaza@mail.ugm.ac.id**
 
 <h3 align="left">Connect with me:</h3>
