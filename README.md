@@ -11,3 +11,5 @@
 <a href="https://linkedin.com/in/linkedin.com/in/heeramumtaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/heeramumtaza" height="30" width="40" /></a>
 <a href="https://instagram.com/instagram.com/heeramumtaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/heeramumtaza" height="30" width="40" /></a>
 
+## My Daily Dose<3
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mz00j5sahtosbofgvm5i9hssw&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=mz00j5sahtosbofgvm5i9hssw&redirect=true)
