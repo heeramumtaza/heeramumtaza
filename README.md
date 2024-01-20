@@ -1,6 +1,5 @@
 <div align="center" width="500"
   </div>
-<img src="https://im.ezgif.com/tmp/ezgif-1-4d95ca3253.gif" width="500">
 <h1 align="center">Hi 👋, I'm Mahira Ghina Mumtaza</h1>
 <div>
 - 📫 How to reach me **mahiraghinamumtaza@mail.ugm.ac.id**
